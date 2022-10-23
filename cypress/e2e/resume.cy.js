@@ -8,10 +8,10 @@ describe('Resume page', () => {
   });
 
   it('contains "LAISA COSTA" in the title', () => {
-    cy.get('[data-test="title"]').should('contain', 'LAISA COSTA');
+    cy.getByDataTest('title').should('contain', 'LAISA COSTA');
   });
 
   it('contains "FRONTEND DEVELOPER" in the title', () => {
-    cy.get('[data-test="subtitle"]').should('contain', 'FRONTEND DEVELOPER');
+    cy.getByDataTest('subtitle').should('contain', 'FRONTEND DEVELOPER');
   });
 });

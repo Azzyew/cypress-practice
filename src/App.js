@@ -6,7 +6,7 @@ function App() {
       <div class="container">
         <div class="info">
           <div>
-            <h1 class="title" data-test="title">PEDRO TODERO</h1>
+            <h1 class="title" data-test="title">LAISA COSTA</h1>
             <h3 class="subtitle" data-test="subtitle">FRONTEND DEVELOPER</h3>
           </div>
           <img src="/images/eu.jfif" alt="self" width="150" />
