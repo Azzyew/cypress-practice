@@ -6,15 +6,6 @@
   font-size: 13px;
 }
 
-.bg {
-  background-image: url("images/bg.jpg");
-  height: auto;
-  width: auto;
-  display: flex;
-  justify-content: center;
-  padding: 3%;
-}
-
 .container {
   background-color: #fff;
   height: auto;
